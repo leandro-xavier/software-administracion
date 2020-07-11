@@ -1,0 +1,31 @@
+.container {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.container-center {
+    width: 100%;
+    height: 300px;
+}
+
+.container-center-uno {
+    display: inline-block;
+    width: 32%;
+    height: 200px;
+}
+
+.img-princi {
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boton {
+    display: block;
+    background: black;
+    color: azure;
+    margin: auto;
+}
